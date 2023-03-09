@@ -13,3 +13,4 @@ Me following along JetBrains' official [Ktor tutorials](https://ktor.io/docs/wel
 ## Client
 
 1. [Creating a client application](tutorial-client-get-started) ([Link](https://ktor.io/docs/getting-started-ktor-client.html) | [Original source code](https://github.com/ktorio/ktor-documentation/tree/2.2.3/codeSnippets/snippets/tutorial-client-get-started))
+2. [Creating a WebSocket chat client](tutorial-client-websockets) ([Link](https://ktor.io/docs/getting-started-ktor-client-chat.html) | [Original source code](https://github.com/ktorio/ktor-documentation/tree/2.2.3/codeSnippets/snippets/tutorial-websockets-client))
